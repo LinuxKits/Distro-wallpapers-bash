@@ -1,4 +1,4 @@
-# CLIfor-Distro_Wallpapers
+# Distro_wallpapers-CLI-bash 
 **A cli client to download and install wallpapers from the project [Distro_Wallpapers](https://github.com/happyeggchen/Distro_wallpapers)**
 With this app, you can download, browse, configure nitrojen to install wallpapers - all from the terminal! So that you can manage all the wallpapers from every distro from within your terminal.
 
